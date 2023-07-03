@@ -6,10 +6,11 @@
 - Building bridges between computer science and identity
 
 ## 🦎 My work is dedicated to
-- the M.Sc. study program of Computer Science for Digital Media @ Bauhaus-Universität Weimar
+- Understanding the aesthetics of code, and raising awareness for its creative potential and social influence
 
 ## 🎓 In my very hand I hold
-- a B.Sc. Computer Science (Medieninformatik) 
+- a B.Sc. Computer Science (Medieninformatik)
+- a M.Sc. Computer Science for Digital Media
 
 ## ⚗ I meddle with the sinister arts of 
 - 🌌 Python, Spring, Ruby, C++
