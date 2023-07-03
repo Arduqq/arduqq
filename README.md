@@ -16,4 +16,5 @@
 - 🌌 Python, Spring, Ruby, C++
 - 🐹 SQL, Cypher 
 - 🚀 Vue, React, Jekyll, SCSS
-- 🦥 Blender, Photoshop, InDesign, Animate
+- 🦥 Blender, Clip Studio Paint, Photoshop, InDesign, Animate
+ 
